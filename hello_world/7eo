@@ -1,0 +1,10 @@
+6-size.c: In function 'main':
+6-size.c:9:27: warning: format '%zu' expects a matching 'size_t' argument [-Wformat=]
+    9 | printf ("Size of a char:%zu")sizeof(char);
+      |                         ~~^
+      |                           |
+      |                           unsigned int
+6-size.c:9:30: error: expected ';' before 'sizeof'
+    9 | printf ("Size of a char:%zu")sizeof(char);
+      |                              ^~~~~~
+      |                              ;
