@@ -11,12 +11,13 @@ int main(void)
 char letters;
 char az;
 
+
 for (letters = 'a'; letters <= 'z' ; letters++)
-for (az = 'A'; az <= 'az' ; az++)
-{
 putchar(letters);
+
+for (az = 'A'; az <= 'Z' ; az++)
 putchar(az);
-}
+
 putchar('\n');
 
 return (0);
