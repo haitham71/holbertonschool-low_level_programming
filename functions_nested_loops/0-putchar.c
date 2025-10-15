@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include "main.h"
-
+/**
+* main - about prits _putchar
+* _putchar - like basic putchar
+* Return: is 0
+*/
 int main(void)
 {
 int i;
