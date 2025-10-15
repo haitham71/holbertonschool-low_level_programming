@@ -1,21 +1,14 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
-/**
-* main - talks about if
-* Return: 0 is succes
-*betty style doc for function main goes there
-*/
-int main(void)
-{
-putchar('_');
-putchar('p');
-putchar('u');
-putchar('t');
-putchar('c');
-putchar('h');
-putchar('a');
-putchar('r');
-putchar('\n');
-return (0);
+#include "main.h"
+
+int main(void){
+int i ;
+char h [] = "_putchar";
+for ( i = 0; i <= 7; i++ )
+
+_putchar(h[i]);
+
+_putchar('\n');
+return 0;
+
 }
