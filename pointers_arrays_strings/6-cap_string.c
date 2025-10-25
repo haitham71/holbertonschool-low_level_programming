@@ -19,7 +19,9 @@ s[i] = s[i] - 32;
 else
 {
 sep = s[i - 1];
-if (sep == ' ' || sep == '\t' || sep == '\n' || sep == ',' || sep == ';' || sep == '.' || sep == '!' || sep == '?' || sep == '"' || sep == '(' || sep == ')' || sep == '{' || sep == '}')
+if (sep == ' ' || sep == '\t' || sep == '\n' || sep == ',' ||
+sep == ';' || sep == '.' || sep == '!' || sep == '?' || sep == '"' ||
+sep == '(' || sep == ')' || sep == '{' || sep == '}')
 s[i] = s[i] - 32;
 }
 }
