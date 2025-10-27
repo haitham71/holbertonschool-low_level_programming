@@ -14,16 +14,16 @@ for (i = 0; s[i] != '\0'; i++)
 m = 0;
 for (j = 0; accept[j] != '\0'; j++)
 {
-       
-if (s[i] == accept[j])
-{ 
 
-        
+if (s[i] == accept[j])
+{
+
+
 m = 1;
 break;
 }
 }
-if ( m == 0)
+if (m == 0)
 break;
 c++;
 }
