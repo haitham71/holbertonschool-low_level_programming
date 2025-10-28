@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strlen_recursion - ther is the char
+ * _strlen_recursion- ther is the char
  * @s: pointer to the char
  */
 
