@@ -1,4 +1,9 @@
 #include "main.h"
+/**
+ * _strlen_recursion - ther is the char 
+ * @s: pointer to the char
+ */
+
 
 int _strlen_recursion(char *s)
 {
