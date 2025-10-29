@@ -1,6 +1,7 @@
-/* 0-whatsmyname.c */
 #include <stdio.h>
-
+/**
+ * main- is the main
+ */
 int main(int argc, char *argv[])
 {
 (void)argc;
