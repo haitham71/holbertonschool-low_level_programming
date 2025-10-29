@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main- is the main
+ * main - is the main
  */
 int main(int argc, char *argv[])
 {
