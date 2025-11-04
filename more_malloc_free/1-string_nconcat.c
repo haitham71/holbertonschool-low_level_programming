@@ -1,6 +1,12 @@
 #include "main.h"
 #include <stdlib.h>
-
+/**
+ * string_nconcat - concatenates two strings
+ * @s1: first string
+ * @s2: second string
+ * @n: number of bytes from s2 to concatenate
+ * Return: pointer to the new concatenated string, or NULL on failure
+ */
 char *string_nconcat(char *s1, char *s2, unsigned int n)
 {
 char *dup;
