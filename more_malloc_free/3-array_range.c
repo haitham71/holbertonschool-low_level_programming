@@ -17,7 +17,7 @@ return (NULL);
 
 s = max - min + 1;
 
-arr = malloc(s * sizeof(int));
+arr = malloc(s *sizeof(int));
 
 if (arr == NULL)
 return (NULL);
