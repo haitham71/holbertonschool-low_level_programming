@@ -1,11 +1,8 @@
 #include <stdio.h>
 #include "dog.h"
 /**
- * print_dog - initializes a variable of type struct dog
- * @d: pointer to struct dog to initialize
- * @name: name to set
- * @age: age to set
- * @owner: owner to set
+ * print_dog - prints the details of a struct dog
+ * @d: pointer to the struct dog to print
  */
 void print_dog(struct dog *d)
 {
