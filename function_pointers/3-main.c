@@ -3,11 +3,10 @@
 #include "3-calc.h"
 #include "string.h"
 /**
- * get_op_func - selects the correct function to perform the operation
- * asked by the user
- * @s: operator passed as argument to the program
- * Return: A pointer to the function corresponding to the operator given as a
- * parameter. NULL if operator is not found.
+ * main - performs simple operations
+ * @argc: number of arguments
+ * @argv: array of arguments
+ * Return: 0 on success
  */
 
 int main(int argc, char *argv[])
