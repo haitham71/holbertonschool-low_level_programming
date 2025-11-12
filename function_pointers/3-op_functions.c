@@ -3,6 +3,10 @@
 
 /**
  * op_add - adds two integers
+ * op_sub - subtracts two integers
+ * op_mul - multiplies two integers
+ * op_div - divides two integers
+ * op_mod - computes the remainder of the division of two integers
  * @a: first integer
  * @b: second integer
  * Return: sum of a and b
