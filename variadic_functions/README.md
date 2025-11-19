@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Files](#files)
+ [About](#about)
+ [Files](#files)
 
 ## About
 
