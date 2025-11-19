@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
- [About](#about)
- [Files](#files)
+- [About](#about)
+- [Files](#files)
+- [usage](#usage)
 
 ## About
 
@@ -16,3 +17,24 @@
 |File    |Dis          |ext |
 |--------|-------------|----|
 |main    |dkcsdkcdfvd  |.c  |
+
+
+
+## Usage
+
+-u must make the file 
+
+```c
+
+#inclode <stdio.h>
+
+int main(void)
+{
+
+printf("hello");
+
+return 0;
+
+}
+
+```
