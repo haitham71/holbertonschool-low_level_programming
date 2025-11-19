@@ -1,4 +1,4 @@
-### Vairadic Fun - C
+# Vairadic Fun - C
 
 ## Table of Contents
 
