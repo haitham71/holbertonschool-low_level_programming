@@ -6,4 +6,5 @@
 - [Files](#files)
 
 ## About
- `_printf(const char *format, ...)`
+
+### `_printf(const char *format, ...)`
