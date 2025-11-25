@@ -24,7 +24,7 @@
 
 -u must make the file 
 
-```c
+```
 
 #inclode <stdio.h>
 
