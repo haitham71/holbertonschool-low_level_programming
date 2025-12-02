@@ -8,7 +8,7 @@
  * @n: integer to be added to the new node
  * Return: the address of the new node, or NULL if it failed
  */
-size_t add_dnodeint(dlistint_t **head, const int n)
+size_t *add_dnodeint(dlistint_t **head, const int n)
 {
 dlistint_t *new_node;
 
