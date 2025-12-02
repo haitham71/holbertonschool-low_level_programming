@@ -25,5 +25,5 @@ if (*head != NULL)
 
 *head = new_node;
 
-return (1);
+return (new_node);
 }
